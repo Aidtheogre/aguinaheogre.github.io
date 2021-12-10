@@ -1,1 +1,2 @@
-# aidtheogre.github.io
+# aguina
+.github.io
