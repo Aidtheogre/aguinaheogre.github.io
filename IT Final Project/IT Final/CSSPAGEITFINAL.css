@@ -1,0 +1,138 @@
+  body {
+  background-image: url("https://wallup.net/wp-content/uploads/2015/12/218351-nature-landscape-mist-sunrise-mountain-summit-cliff-summer.jpg");
+
+
+        }
+
+            a {
+                color: white;
+                  float: right;
+                    font-family: "Times New Roman", Times, serif;
+                      text-decoration: none;
+                      padding: 10px;
+                }
+                    a:hover {
+                        color: magenta;
+                            }
+                            a:visited {
+                                text-decoration: underline;
+                                      }/*dont worry about this*/
+
+                                        h5 {
+                                      text-align: right;
+                                        color:white;
+                                          font-family: "Times New Roman", Times, serif;
+                                                          }
+                                                          #hubie {
+                                                            float: right;
+                                                            text-align: center;
+                                                          }
+
+            h1 {
+                color: black;
+                  text-align: left;
+                    font-family: "Times New Roman", Times, serif;
+                      padding: 20px;
+                      background-color: lavender;
+                      width: 20%;
+                }
+                                                  #Extras {
+                                                      color: black;
+                                                        text-align: left;
+                                                          font-family: "Times New Roman", Times, serif;
+                                                            padding: 20px;
+                                                            background-color: lavender;
+                                                            width: 8%;
+                                                      }
+                                                      #lifestory {
+                                                          color: black;
+                                                            text-align: left;
+                                                              font-family: "Times New Roman", Times, serif;
+                                                                padding: 20px;
+                                                                background-color: lavender;
+                                                                width: 15%;
+                                                          }
+                              #para1 {
+                                float: left;
+                                  color:black;
+                                    font-family: "Times New Roman", Times, serif;
+                                            line-height: 1.5;
+                                               width: 50%;
+                                               background-color: lavender;
+
+                                          }
+                                          #walt {
+                                            float: left;
+                                              color:black
+                                                font-family: "Times New Roman", Times, serif;
+                                                        line-height: 1.5;
+                                                        background-color: lavender;
+                                                      }
+                                                    .ref {
+                                                    text-align: right;
+                                                    float: right;
+                                                      color:white;
+                                                        font-family: "Times New Roman", Times, serif;
+                                                    }
+
+                                    #fitgram {
+                                      float: right;
+                                      text-align: right;
+                                    }
+
+                                    #yolo {
+                                      float: left;
+                                        color:black;
+                                          font-family: "Times New Roman", Times, serif;
+                                                  line-height: 1.5;
+                                                }
+                                                #law {
+                                                  width: 300px;
+                                                  height: 500px;
+                                                  float: middle;
+                                                   width: 28%;
+                                                   padding-left: 120px
+                                                }
+                                                #free {
+                                                  width: 300px;
+                                                  height: 500px;
+                                                  float: left;
+                                                  width: 28%;
+                                                }
+                                                  #dream {
+                                                    width: 300px;
+                                                    height: 500px;
+                                                    float: right;
+                                                    width: 28%;
+                                                  }
+                                                                .column {
+                                                                float: left;
+                                                                width: 32%;
+                                                                padding: 5px;
+                                                                font-style: italic;
+                                                                background-color: lavender;
+                                                                      }
+                    ul.b {
+                    list-style-type: square;
+                    color: black;
+                        font-family: "Times New Roman", Times, serif;
+                          padding: 20px;
+                          background-color: lavender;
+                          width: 5%;
+
+                  }
+                                            table, th, td {
+                                                border: 1px solid black;
+                                                background-color: lavender;
+                                                          }
+
+                                                          table {
+                                                              width: 80%;
+                                                              text-align: center;
+                                                              margin: auto;
+                                                                }
+                              pre code {
+                              background-color: lightgray;
+                              display: block;
+                              padding: 20px;
+                                      }
